@@ -1,48 +1,39 @@
-<h2 data-importer="text" align="left">I am Obaidur</h2>
+<img src="./Banner/banner.jpg" alt="Hello world">
+<h1 align="center">Hi 👋, I'm OBAIDUR RAHMANI</h1>
+ <h3 align="center">Full Stack Web Developer (Learning)</h3>
+ 
+ <ul align= "center">
+ <!--- typo --->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=0CED18&center=true&vCenter=true&width=500&lines=CS+Student+@Eastern+University;Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast;Interested+in+Exploring+Something+New" alt="Typing SVG" /></a>
+  </ul>
 
-###
+- 👋 Hi, I’m **[@obaidur-0090](https://github.com/obaidur-0090)**
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/obaidur-0090/obaidur-0090/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/obaidur-0090/obaidur-0090/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+- 📝 I regularly write articles on **[LinkedIn](https://linkedin.com/in/gazishawon999)**
 
-###
+- 💬 Ask me about **C, C++, Java , Algorithm, JavaScript, TypeScript, Database(MySQL)**
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+- 📩 Email Me **mdobaidur0090@gmail.com**
 
-###
+- 🌐 Explore My [Portfolio](obaidur-0090.github.io/portfolio/)
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-</div>
+<br/>
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/mdobaidur00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gazishawon999" height="50" width="50" /></a>
+<a href="https://www.facebook.com/md.obaidur.rahman.642405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gazishawon999" height="50" width="50" /></a>
+<a href="https://www.instagram.com/mdobaidur700599/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shawon_shimanto" height="50" width="50" /></a>
 
-<div data-importer="socials" align="left">
-  <a href="https://www.linkedin.com/in/mdobaidur00/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
 
-###
 
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/obaidur-0090/obaidur-0090/snake-output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  <img 
+    src="https://github-contributor-stats.vercel.app/api?username=gazishawon999&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" 
+    alt="Repository Statistics"
+  />
+  <img 
+    src="https://streak-stats.demolab.com/?user=gazishawon999" 
+    alt="GitHub Streak"
+  />
+</p>
